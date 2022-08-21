@@ -1,6 +1,6 @@
 
 <p align='center'>
-<a href="mailto:mahdi.asadzadeh.programing@gmail.com"><img height="30" src="img/Gmail.png"></a>&nbsp;&nbsp;
+<a href="mailto:mahdi.asadzadeh.programing@gmail.com"><img height="30" src="img/Gmail.png"></a>
 <a href="https://instagram.com/mahdi__asadzadeh"><img height="30" src="img/Instagram.png"></a>
 <a href="https://t.me/mahdi_asadzadeh"><img height="30" src="img/Telegram.png"></a>
 <a href="https://www.linkedin.com/in/mahdi-asadzadeh/"><img height="30" src="img/Linkedin.png"></a>
