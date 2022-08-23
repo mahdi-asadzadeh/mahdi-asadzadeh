@@ -9,14 +9,13 @@
 ------------------------
 
 <div dir='ltr'>
-Hey there 👋,
-I am Mahdi Asadzadeh, a Back-End Engineer. I work mostly in Back-End, but I'm also interested in DevOps and Blockchain. I'm a big fan of open source, and I'm always interested in learning new things. I love to share what I learn, and I'm always open to suggestions an feedback.
+Hey there 👋(19 old), I am Mahdi Asadzadeh, it has been more than 3 years I started working in the Back-End. I work mostly in Back-End, but I'm also interested in DevOps and Blockchain. I'm a big fan of open source, and I'm always interested in learning new things. I love to share what I learn, and I'm always open to suggestions an feedback.
 </div>
 
 <br>
 
 <div dir='rtl'>
-سلام 👋,مهدی اسدزاده هستم,مهندس بک اند. بیشترین فعالیت من در بک اند هست ولی علاقه به دواپس و بلاکچین  نیز دارم. من از طرفداران پر و پا قرص متن باز هستم,  و علاقه به یادگیری چیز های جدید دارم . علاقه به اشتراک گذاری دانشم هستم, گوش شنوا دارم برای پیشنهاد ها و انتقاد ها .
+سلام 👋(19 ساله)، من مهدی اسدزاده هستم، بیش از 3 سال است که در بک اند شروع به کار کرده ام.  من بیشتر در Back-End کار می کنم، اما به DevOps و Blockchain نیز علاقه مند هستم.  من از طرفداران پر و پا قرص متن باز هستم و همیشه علاقه مند به یادگیری چیزهای جدید هستم.  من دوست دارم آنچه را که یاد می‌گیرم به اشتراک بگذارم، و همیشه آماده پیشنهادات و بازخورد هستم.
 </div>
 
 
